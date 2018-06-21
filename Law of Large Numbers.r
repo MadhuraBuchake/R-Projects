@@ -1,3 +1,4 @@
+#Check ReadMe for description of the problem statement
 #Law of Large Numbers
 N = 100000
 count = 0
