@@ -7,6 +7,6 @@ Basic R Projects to visualize various data sets and derieve data insights using 
 
 2. Law of Large Numbers
 
-   For N random normally distributed numbers with mean=0 and std=1, count how many of these numbers will fall between -1 and 1 and divide      by total quantity N. Keep increasing the value of N
+   For N random normally distributed numbers with mean=0 and std=1, count how many of these numbers will fall between -1 and 1 and divide      by total quantity N. Keep increasing the value of N.
    Check if Mean(x) is approx to E(X)
 
