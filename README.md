@@ -21,5 +21,7 @@ Basic R Projects to visualize various data sets and derieve data insights using 
    - bad months - where the profit after tax was less than the mean for the year
    - the best month - where the profit after tax was max for the year
    - the worst month - where the profit after tax was min for the year
+   Results for the profit margin ratio need to be presented in units of % with no
+   decimal points.
    
 
