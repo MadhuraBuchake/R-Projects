@@ -31,5 +31,10 @@ Basic R Projects to visualize various data sets and derieve data insights using 
     - Accuracy of Free Throws
     - Player playing style (2 vs 3 points preference) excluding Free Throws*
    
-    *Each Free Throw is worth 1 point. The data has been supplied in the form of vectors. Create two matrices before you proceed with the     analysis
+    *Each Free Throw is worth 1 point. The data has been supplied in the form of vectors. Create two matrices before you proceed with        the analysis
+    
+ 5. Worlddata Analysis
+ 
+    Produce a scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country. The scatterplot needs to     also be categorised by Countries’ Regions. Produce a visualisation for each of these years: 1960 and 2013. Provide insights into how     the two periods compare
+ 
 
