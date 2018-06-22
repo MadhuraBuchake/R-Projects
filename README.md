@@ -26,10 +26,10 @@ Basic R Projects to visualize various data sets and derieve data insights using 
    
  4. Basketball Data Analysis
    
-   Create three plots that portray the following insights:
-   - Free Throw Attempts per game
-   - Accuracy of Free Throws
-   - Player playing style (2 vs 3 points preference) excluding Free Throws*
+    Create three plots that portray the following insights:
+    - Free Throw Attempts per game
+    - Accuracy of Free Throws
+    - Player playing style (2 vs 3 points preference) excluding Free Throws*
    
-   *Each Free Throw is worth 1 point. The data has been supplied in the form of vectors. Create two matrices before you proceed with the     analysis
+    *Each Free Throw is worth 1 point. The data has been supplied in the form of vectors. Create two matrices before you proceed with the     analysis
 
