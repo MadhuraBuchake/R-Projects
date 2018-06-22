@@ -113,3 +113,9 @@ plots(FreeThrow_matrix/Freethrow_attempt_matrix)
 # 3. Player Style Pattern excluding  free throws
 plots((Points_matrix - FreeThrow_matrix)/FieldGoals_matrix)
 #Usually Dwight Howards plays 2 pointers and does not try for 3 pointers. whereas, JOe Johnson has shown much improvement in his game and aims for 3 pointers in the game
+
+
+
+
+
+#(c) Kirill Eremenko
