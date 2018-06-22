@@ -49,3 +49,8 @@ profit_after_tax_1000 <- round(profit_after_tax/1000)
 combined_results <- rbind(revenue_1000, expenses_1000, profit_1000, profit_after_tax_1000, profit_margin, good_months, bad_months, best_month, worst_month)
 colnames(combined_results) <- c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "July", "Aug", "Sept", "Oct", "Nov", "Dec")
 round(combined_results)
+
+
+
+
+#(c) Kirill Eremenko
